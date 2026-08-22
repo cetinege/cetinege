@@ -42,8 +42,10 @@
 ### [Face Pain Detector](https://github.com/Chetoh16/face-the-pain)
 - A Python tool that analyses live webcam feeds or video files to track facial motion and estimate real-time pain intensity using MediaPipe Face Landmarker and the Prkachin & Solomon Pain Intensity (PSPI) index.
 
-### [Song Adder](https://github.com/Chetoh16/song-adder)
-- A website that takes a playlist URL from a user and adds songs to it. (Using Flask and Spotipy)
+### [PlantUML Drag & Edit](https://github.com/Chetoh16/plantuml-drag-and-edit)
+- A web app for editing PlantUML class diagrams with draggable layout. Write PlantUML code, render it through a real PlantUML engine, then drag classes and packages around by hand.
+
+
 
 
 
