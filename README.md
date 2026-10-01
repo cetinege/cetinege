@@ -1,5 +1,5 @@
 # Hi!
-- My name is a palindrome and I code. That's all for now.
+- My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
 
 ### Stuff I Use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
