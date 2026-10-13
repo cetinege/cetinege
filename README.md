@@ -1,4 +1,5 @@
-# Hi!
+<img width="1129" height="1153" alt="Me!" src="https://github.com/user-attachments/assets/c24d0281-a25b-4d17-b968-7c120c5e60f9" />
+
 - My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
 
 ### Stuff I Use
