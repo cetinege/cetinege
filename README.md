@@ -6,35 +6,29 @@
 
 - My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
 
-### Stuff I Use
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![languages](https://img.shields.io/badge/languages:-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=000000)
+![Python](https://img.shields.io/badge/python-800020?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-800020?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-800020?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-800020?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/java-800020?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![tools](https://img.shields.io/badge/tools%3A-ffffff?style=for-the-badge&logoColor=800020&labelColor=ffffff&color=000000)
+![Supabase](https://img.shields.io/badge/Supabase-800020?style=for-the-badge&logo=supabase&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-800020?style=for-the-badge&logo=jira&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-800020?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-800020?style=for-the-badge&logo=vercel&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-800020?style=for-the-badge&logo=figma&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-800020?style=for-the-badge&logo=Aseprite&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-800020?style=for-the-badge&logo=blender&logoColor=white) 
 
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 
-### GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=Chetoh16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chetoh16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetoh16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-
-### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cetin-ege)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@egec.5090) 
+![socials](https://img.shields.io/badge/socials:-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cetin-ege)
+[![YouTube](https://img.shields.io/badge/YouTube-800020?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@egec.5090)
+[![Portfolio](https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=about.me&logoColor=white)](https://cetinege.github.io)
 
 ## Projects
 
