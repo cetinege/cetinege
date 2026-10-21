@@ -18,7 +18,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-800020?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-800020?style=for-the-badge&logo=jira&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-800020?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-800020?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-800020?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-800020?style=for-the-badge&logo=Aseprite&logoColor=white) 
