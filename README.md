@@ -15,14 +15,13 @@
 ![Java](https://img.shields.io/badge/java-800020?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![tools](https://img.shields.io/badge/tools%3A-ffffff?style=for-the-badge&logoColor=800020&labelColor=ffffff&color=000000)
-![Supabase](https://img.shields.io/badge/Supabase-800020?style=for-the-badge&logo=supabase&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-800020?style=for-the-badge&logo=jira&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-800020?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-800020?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-800020?style=for-the-badge&logo=supabase&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-800020?style=for-the-badge&logo=netlify&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-800020?style=for-the-badge&logo=Aseprite&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-800020?style=for-the-badge&logo=jira&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-800020?style=for-the-badge&logo=blender&logoColor=white) 
-
+![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white)
 
 ![socials](https://img.shields.io/badge/socials:-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=000000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cetin-ege)
