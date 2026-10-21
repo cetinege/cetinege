@@ -6,12 +6,13 @@
 
 - My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
 
+
 ![languages](https://img.shields.io/badge/languages:-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=000000)
 ![Python](https://img.shields.io/badge/python-800020?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-800020?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-800020?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-800020?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-800020?style=for-the-badge&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/java-800020?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![tools](https://img.shields.io/badge/tools%3A-ffffff?style=for-the-badge&logoColor=800020&labelColor=ffffff&color=000000)
