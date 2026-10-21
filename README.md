@@ -3,8 +3,7 @@
 
 
 
-
-- My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
+## My name is a palindrome and I code. Check out my **[website](https://cetinege.github.io)**.
 
 
 ![languages](https://img.shields.io/badge/languages:-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=000000)
